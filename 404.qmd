@@ -1,0 +1,9 @@
+---
+title: 404 - page not found
+listing:
+  contents: post
+  type: table
+  sort: "date"
+---
+
+The page you requested cannot be found. I recently migrated this website, so it is likely the page you are looking for moved. Below is a list of all my blog posts, perhaps you can find the one you are looking for.

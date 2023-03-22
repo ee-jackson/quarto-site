@@ -1,0 +1,13 @@
+---
+title: "ForestGEO spotlight series interview"
+subtitle: "ForestGEO interviewed me for their spotlight series blog. We talk about my career and working with forest dynamic plots."
+date: 2022-05-22
+image: featured.png
+format:
+  html:
+    toc: false
+aliases: 
+  - ../forestgeo-spotlight/
+---
+
+#### Read it [here](https://forestgeo.si.edu/blog/spotlight-series-eleanor-jackson-plant-enemies-two-forests)

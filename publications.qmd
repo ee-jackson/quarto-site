@@ -1,0 +1,11 @@
+---
+title: "publications"
+---
+
+## peer-reviewed research papers
+
+Josianne Lachapelle, Elvire Bestion, **Eleanor E. Jackson**, C.-Elisa Schaum (2022). Presence of a resident species aids invader evolution. *Limnology and Oceanography.*<br> [{{< fa solid file-pdf >}} PDF](https://aslopubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/lno.12200?download=false) · [{{< fa regular link >}} DOI](https://doi.org/10.1002/lno.12200) · [{{< fa regular code >}} code](https://doi.org/10.5281/zenodo.6884040) · [{{< fa regular database >}} data](https://doi.org/10.5281/zenodo.6884040) <br>
+
+**Eleanor E. Jackson**, S. Joseph Wright, Osvaldo Calderón, James M. Bullock, Tom Oliver, Sofia Gripenberg (2022). Pre‐dispersal seed predation could help explain premature fruit drop in a tropical forest. *Journal of Ecology.*<br> [{{< fa solid file-pdf >}} PDF](https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2745.13867?download=false) · [{{< fa regular link >}} DOI](https://doi.org/10.1111/1365-2745.13867) · [{{< fa regular code >}} code](https://doi.org/10.5281/zenodo.5767680) · [{{< fa regular database >}} data](https://doi.org/10.5061/dryad.4mw6m909j) <br>
+
+**Eleanor E. Jackson**, Ian Hawes, Anne D. Jungblut (2021). 16S rRNA gene and 18S rRNA gene diversity in microbial mat communities in meltwater ponds on the McMurdo Ice Shelf, Antarctica. *Polar Biology.* <br> [{{< fa solid file-pdf >}} PDF](https://link.springer.com/content/pdf/10.1007/s00300-021-02843-2.pdf) · [{{< fa regular link >}} DOI](https://doi.org/10.1007/s00300-021-02843-2) <br>

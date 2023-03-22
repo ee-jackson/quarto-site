@@ -1,0 +1,34 @@
+---
+title: "eleanor jackson"
+image: images/meadow.jpg
+execute:
+  echo: false
+about: 
+  template: solana
+  image-shape: rounded
+  image-width: 16em
+  links:
+    - icon: github 
+      text: GitHub
+      href: https://github.com/ee-jackson
+    - icon: orcid
+      text: "{{< fa brands orcid >}} Orcid"
+      href: https://orcid.org/0000-0002-9884-2972
+    - icon: mastodon 
+      text: Mastodon
+      href: https://www.ecoevo.social/@eejackson
+    - icon: twitter 
+      text: Twitter
+      href: https://twitter.com/ee_jackson
+    - icon: envelope 
+      text: Email
+      href: mailto:ee-jackson@pm.me
+---
+
+Hey, I'm El. I'm a research scientist with interests in community ecology, forest ecology and plant-insect interactions.
+
+[See what I'm working on {{< fa arrow-right >}}](/research.qmd)
+
+<!-- mastodon verification -->
+
+<a rel="me" href="https://ecoevo.social/@eejackson"></a>

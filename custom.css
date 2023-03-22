@@ -1,0 +1,97 @@
+/*-- scss:defaults --*/
+
+/* use litera as the base */
+$theme: "litera" !default;
+
+/* import google fonts */
+@import 'https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap';
+@import 'https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap';
+
+/* use Atkinson Hyperlegible font if available */
+$font-family-sans-serif:  "Atkinson Hyperlegible", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji" !default;
+
+$monofont: "Fira";
+
+/* colours */
+$primary: #036C34;
+$body-bg: #F7F7F7;
+$navbar-bg: #F7F7F7;
+$code-block-bg: #FFFFFF;
+
+
+/*-- scss:rules --*/
+
+/* make logo grow and turn green on hover
+// ..slightly hacky.. see here https://codepen.io/sosuke/pen/Pjoqqp */
+
+.navbar-brand-logo{
+  transition: all 0.5s ease-in-out;
+}
+
+.navbar-brand-logo:hover {
+  transform: scale(1.5);
+  filter: invert(24%) sepia(50%) saturate(1515%) hue-rotate(113deg) brightness(107%);
+}
+
+/* underline navbar item on hover*/
+
+.menu-text {
+  position: relative;
+}
+
+.menu-text::after {
+  content: "";
+  position: absolute;
+  top: calc(100% - 0.125rem);
+  border-bottom: 0.125rem solid #036C34;
+  left: 50%;
+  right: 50%;
+  transition: all 0.5s ease;
+}
+
+.menu-text:hover::after {
+  left: 0;
+  right: 0;
+  transition: all 0.5s ease;
+}
+
+.menu-text.active {
+  color: $primary;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link:hover {
+  color: $primary;
+}
+
+/* in-text links */
+
+a:link {
+  text-decoration: none;
+}
+
+
+a:visited {
+  text-decoration: none;
+}
+
+
+.content a:hover { 
+  border-bottom: 0.125rem solid #036C34;
+  transition: all 0.5s ease;
+}
+
+a:active {
+  text-decoration: none; 
+}
+
+/* footer */
+
+body:not(.floating) .nav-footer{
+  border-top: none;
+}
+
+/* round image corners */
+
+img {
+  border-radius: .23rem;
+}

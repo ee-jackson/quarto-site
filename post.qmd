@@ -1,0 +1,7 @@
+---
+pagetitle: "blog"
+listing:
+  contents: post
+  sort: "date desc"
+  type: default
+---

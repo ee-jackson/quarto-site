@@ -1,0 +1,11 @@
+# Default author
+author:
+  - name: Eleanor Jackson
+    url: https://eleanor-jackson.com
+    orcid: 0000-0002-9884-2972
+    
+# Freeze computed outputs
+freeze: true
+
+# Fig captions
+fig-cap-location: margin
