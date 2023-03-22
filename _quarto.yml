@@ -5,6 +5,7 @@ website:
   title: "eleanor jackson"
   favicon: images/icon.png
   site-url: https://www.eleanor-jackson.com
+  description: Personal website, portfolio and blog
   repo-url: https://github.com/ee-jackson/quarto-site
   search: false
   twitter-card:
@@ -33,5 +34,5 @@ format:
     theme: custom.css
     css: styles.css
     toc: true
-
-
+lang: en-GB
+editor: source
