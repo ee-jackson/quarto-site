@@ -18,6 +18,13 @@ $body-bg: #F7F7F7;
 $navbar-bg: #F7F7F7;
 $code-block-bg: #FFFFFF;
 
+/* don't wrap research image on small screens*/
+@media only screen and (max-width: 500px) {
+    .researchimage-container{
+        width: 100%;
+        display: block;
+    }
+}
 
 /*-- scss:rules --*/
 
@@ -43,7 +50,7 @@ $code-block-bg: #FFFFFF;
   content: "";
   position: absolute;
   top: calc(100% - 0.125rem);
-  border-bottom: 0.125rem solid #036C34;
+  border-bottom: 0.125rem solid $primary;
   left: 50%;
   right: 50%;
   transition: all 0.5s ease;
@@ -69,14 +76,12 @@ a:link {
   text-decoration: none;
 }
 
-
 a:visited {
   text-decoration: none;
 }
 
-
 .content a:hover { 
-  border-bottom: 0.125rem solid #036C34;
+  border-bottom: 0.125rem solid $primary;
   transition: all 0.5s ease;
 }
 
