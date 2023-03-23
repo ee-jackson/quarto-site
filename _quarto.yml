@@ -5,7 +5,7 @@ website:
   title: "eleanor jackson"
   favicon: images/icon.png
   site-url: https://www.eleanor-jackson.com
-  description: Personal website, portfolio and blog
+  description: Research scientist with interests in community ecology, forest ecology and plant-insect interactions.
   repo-url: https://github.com/ee-jackson/quarto-site
   search: false
   twitter-card:
