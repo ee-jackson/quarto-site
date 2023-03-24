@@ -89,6 +89,10 @@ a:active {
   text-decoration: none; 
 }
 
+.quarto-post a:hover {
+  border-bottom: none;
+}
+
 /* footer */
 
 body:not(.floating) .nav-footer{
