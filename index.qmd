@@ -22,7 +22,7 @@ about:
       href: https://twitter.com/ee_jackson
     - icon: envelope 
       text: Email
-      href: mailto:ee-jackson@pm.me
+      href: mailto:eleanor.elizabeth.j@gmail.com
 ---
 
 Hey, I'm El. I'm a research scientist with interests in community ecology, forest ecology and plant-insect interactions.
