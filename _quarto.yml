@@ -1,8 +1,5 @@
 project:
   type: website
-  post-render:
-    - "cp -rnv static/. _site/"
-
 website:
   title: "eleanor jackson"
   favicon: images/icon.png
