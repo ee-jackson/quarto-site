@@ -16,4 +16,5 @@ comments:
     repo-id: R_kgDOJM65YA
     category: blog
     category-id: DIC_kwDOJM65YM4CVIHU
+    mapping: pathname
     theme: https://eleanor-jackson.com/giscus-theme.css
