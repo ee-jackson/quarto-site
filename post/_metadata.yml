@@ -9,3 +9,11 @@ freeze: true
 
 # Fig captions
 fig-cap-location: margin
+
+comments:
+  giscus:
+    repo: ee-jackson/quarto-site
+    repo-id: R_kgDOJM65YA
+    category: blog
+    category-id: DIC_kwDOJM65YM4CVIHU
+    theme: https://eleanor-jackson.com/giscus-theme.css

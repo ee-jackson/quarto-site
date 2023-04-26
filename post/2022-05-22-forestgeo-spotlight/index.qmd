@@ -8,6 +8,7 @@ format:
     toc: false
 aliases: 
   - ../forestgeo-spotlight/
+comments: false
 ---
 
 #### Read it [here](https://forestgeo.si.edu/blog/spotlight-series-eleanor-jackson-plant-enemies-two-forests)
