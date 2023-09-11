@@ -4,11 +4,13 @@ format:
   html:
     toc: false
 ---
+<img src="images/panama.jpg" width = 100% hspace="20" vspace="10" style="margin-left: 0; overflow: hidden; white-space: nowrap;" class = "researchimage-container">
+
 # currently
 
 I am a PhD student and Research Associate at the University of Reading. I combine field work with quantitative methods to answer questions like: "why are there so many tree species in tropical forests?" and "can we predict the effect of restoration actions on individual ecosystems?". You can read about my current research [here](/research.qmd).
 
-I think we should be working towards reproducibility and openness in science. I serve on the media committee for the [Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)](https://www.sortee.org) and am an [Open Research Champion](https://research.reading.ac.uk/open-research-champions/) at my university.
+I think we should be working towards reproducibility and openness in science. I serve on the media committee for the [Society for Open, Reliable, and Transparent Ecology and Evolutionary biology (SORTEE)](https://www.sortee.org).
 
 # previously
 
