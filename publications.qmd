@@ -2,11 +2,9 @@
 title: "publications"
 ---
 
-*Happy to provide PDFs of paywalled articles, please [email me for a copy](mailto:eleanor.e.jackson@reading.ac.uk).*
-
 ## peer-reviewed research papers
 
-The Herbivory Variability Network[^1] (2023). Plant size, latitude, and phylogeny explain within-population variability in herbivory. *Science.*<br> [{{< fa regular link >}} DOI](https://doi.org/10.1126/science.adh8830) · [{{< fa regular code >}} code](https://doi.org/10.5281/zenodo.8133118) · [{{< fa regular database >}} data](https://doi.org/10.5061/dryad.44j0zpckm) <br>
+The Herbivory Variability Network[^1] (2023). Plant size, latitude, and phylogeny explain within-population variability in herbivory. *Science.*<br> [{{< fa solid file-pdf >}} PDF](http://herbvar.org/products/herbvar-et-al-2023-science.pdf) · [{{< fa regular link >}} DOI](https://doi.org/10.1126/science.adh8830) · [{{< fa regular code >}} code](https://doi.org/10.5281/zenodo.8133118) · [{{< fa regular database >}} data](https://doi.org/10.5061/dryad.44j0zpckm) <br>
 
 Josianne Lachapelle, Elvire Bestion, **Eleanor E. Jackson**, C.-Elisa Schaum (2022). Presence of a resident species aids invader evolution. *Limnology and Oceanography.*<br> [{{< fa solid file-pdf >}} PDF](https://aslopubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/lno.12200?download=false) · [{{< fa regular link >}} DOI](https://doi.org/10.1002/lno.12200) · [{{< fa regular code >}} code](https://doi.org/10.5281/zenodo.6884040) · [{{< fa regular database >}} data](https://doi.org/10.5281/zenodo.6884040) <br>
 
