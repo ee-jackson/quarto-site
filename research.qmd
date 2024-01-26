@@ -12,7 +12,7 @@ High local species richness in tropical forests poses a challenge to general eco
 
 The role of natural enemies in structuring and maintaining plant diversity in tropical forests is being increasingly recognised. To date, research has focused almost exclusively on enemies attacking seeds after dispersal from the parent plant. However, [we don’t know much about the fate of seeds that are still developing and attached to the parent plant.](https://doi.org/10.1111/btp.12602) Pre-dispersal seed predation could cause a reduction in the number of seeds that are successfully dispersed, with unknown consequences for plant diversity maintenance. 
 
-My doctoral research with [Dr Sofia Gripenberg](https://www.reading.ac.uk/ecology/staff/sofia-gripenberg) aims to investigate the role of pre-dispersal seed enemies in plant diversity maintenance. With Barro Colorado Island in Panama as a field site, I am using long-term seed rain data to model community dynamics and collecting information on individual plant species and their enemies in the field. 
+My doctoral research with [Dr Sofia Gripenberg](https://www.reading.ac.uk/ecology/staff/sofia-gripenberg) aims to investigate the role of pre-dispersal seed enemies in plant diversity maintenance. 
 
 <br clear="all">
 

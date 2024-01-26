@@ -1,5 +1,8 @@
 ---
-title: "eleanor jackson"
+title: "Dr Eleanor E Jackson"
+pagetitle: "eleanor jackson"
+aliases:
+  - about.html
 image: images/meadow.jpg
 execute:
   echo: false
@@ -25,7 +28,9 @@ about:
       href: mailto:eleanor.e.jackson@reading.ac.uk
 ---
 
-Hey, I'm El. I'm a research scientist with interests in community ecology, forest ecology and plant-insect interactions.
+I'm a research scientist with interests in community ecology, forest ecology and plant-insect interactions. I hold a PhD in quantitative modelling in Ecology and Evolution from the University of Reading. Mostly, I use quantitative methods to study the natural world. I work with the programming language [{{< fa brands r-project >}}](https://www.r-project.org) and I'm enthusiastic about reproducible research. 
+
+Currently, I am a Postdoctoral Research Associate at the University of Reading.
 
 [See what I'm working on {{< fa arrow-right >}}](/research.qmd)
 

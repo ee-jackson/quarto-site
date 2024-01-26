@@ -3,7 +3,7 @@ project:
 website:
   title: "eleanor jackson"
   favicon: images/icon.png
-  site-url: https://www.eleanor-jackson.com
+  site-url: https://eleanor-jackson.com
   description: Research scientist with interests in community ecology, forest ecology and plant-insect interactions.
   repo-url: https://github.com/ee-jackson/quarto-site
   search: false
@@ -14,8 +14,6 @@ website:
     title: false
     logo: images/logo.png
     left:
-      - href: about.qmd
-        text: about
       - href: research.qmd
         text: research
       - href: publications.qmd
@@ -24,10 +22,10 @@ website:
         text: blog
   page-footer:
     left: |
-      {{< fa regular copyright >}} Eleanor Jackson, 2023
+      {{< fa regular copyright >}} Eleanor Jackson, 2024
       
     right: |
-      [{{< fa regular code >}}](https://github.com/ee-jackson/quarto-site)
+      <a href="https://github.com/ee-jackson/quarto-site" title="source code">{{< fa regular code >}}</a>
 format:
   html:
     theme: custom.css
@@ -35,3 +33,4 @@ format:
     toc: true
 lang: en-GB
 editor: source
+pagetitle: "{{< meta title >}}"
