@@ -1,16 +1,22 @@
 project:
   type: website
 website:
-  title: "eleanor jackson"
+  title: "Eleanor Jackson"
   favicon: images/icon.png
   site-url: https://eleanor-jackson.com
-  description: Research scientist with interests in community ecology, forest ecology and plant-insect interactions.
+  description: Researcher, ecologist, scientist
   repo-url: https://github.com/ee-jackson/quarto-site
   search: false
   image: "https://eleanor-jackson.com/images/icon.png"
+  open-graph:
+    locale: en_GB
+    image: images/icon.png
   twitter-card:
     creator: "@ee_jackson"
     card-style: summary
+    image: "https://eleanor-jackson.com/images/icon.png"
+    image-width: 512
+    image-height: 512
   navbar:
     title: false
     logo: images/logo.png

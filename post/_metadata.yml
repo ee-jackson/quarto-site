@@ -3,9 +3,14 @@ author:
   - name: Eleanor Jackson
     url: https://eleanor-jackson.com
     orcid: 0000-0002-9884-2972
-    
 # Freeze computed outputs
 freeze: true
-
+open-graph:
+  locale: en_GB
+  image: featured.png
+twitter-card:
+  creator: "@ee_jackson"
+  card-style: summary
+  image: featured.png
 # Fig captions
 fig-cap-location: margin

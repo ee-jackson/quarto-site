@@ -1,6 +1,6 @@
 ---
 title: "Microbial pond life in an icy desert"
-image: featured.jpg
+image: featured.png
 date: 2021-03-26
 categories: 
   - behind the paper
@@ -10,7 +10,7 @@ aliases:
   - ../microbial-mats/
 ---
 
-![The McMurdo Ice Shelf. Photo: Anne Jungblut](featured.jpg)
+![The McMurdo Ice Shelf. Photo: Anne Jungblut](featured.png)
 
 The second of my 16-week research projects undertaken as a part of my MRes was based at the Natural History Museum (NHM), London. I was working with samples of microbial mat communities from meltwater ponds in Antartica, arguably one of the weirdest habitats on earth.
 
