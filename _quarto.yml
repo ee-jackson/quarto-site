@@ -7,6 +7,7 @@ website:
   description: Research scientist with interests in community ecology, forest ecology and plant-insect interactions.
   repo-url: https://github.com/ee-jackson/quarto-site
   search: false
+  image: "https://eleanor-jackson.com/images/icon.png"
   twitter-card:
     creator: "@ee_jackson"
     card-style: summary
