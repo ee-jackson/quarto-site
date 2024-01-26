@@ -40,34 +40,39 @@ $code-block-bg: #FFFFFF;
   filter: invert(24%) sepia(50%) saturate(1515%) hue-rotate(113deg) brightness(107%);
 }
 
-/* underline navbar item on hover*/
+/* underline navbar item on hover, when navbar shows as row*/
+@media screen and (min-width: 992px) {
+  a.nav-link {
+    position: relative;
+  }
+  
+  .menu-text {
+    position: relative;
+  }
 
-.menu-text {
-  position: relative;
-}
+  .menu-text::after {
+    content: "";
+    position: absolute;
+    top: calc(100% - 0.125rem);
+    border-bottom: 0.125rem solid $primary;
+    left: 50%;
+    right: 50%;
+    transition: all 0.5s ease;
+  }
 
-.menu-text::after {
-  content: "";
-  position: absolute;
-  top: calc(100% - 0.125rem);
-  border-bottom: 0.125rem solid $primary;
-  left: 50%;
-  right: 50%;
-  transition: all 0.5s ease;
-}
+  .menu-text:hover::after {
+    left: 0;
+    right: 0;
+    transition: all 0.5s ease;
+  }
 
-.menu-text:hover::after {
-  left: 0;
-  right: 0;
-  transition: all 0.5s ease;
-}
+  .menu-text.active {
+    color: $primary;
+  }
 
-.menu-text.active {
-  color: $primary;
-}
-
-.navbar-expand-lg .navbar-nav .nav-link:hover {
-  color: $primary;
+  .navbar-expand-lg .navbar-nav .nav-link:hover {
+    color: $primary;
+  }
 }
 
 /* in-text links */
