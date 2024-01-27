@@ -24,7 +24,7 @@ website:
       - href: research.qmd
         text: research
       - href: publications.qmd
-        text: pubs
+        text: publications
       - href: post.qmd
         text: blog
   page-footer:
