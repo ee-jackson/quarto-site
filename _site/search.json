@@ -7,25 +7,25 @@
     "text": "A bit about my current research projects."
   },
   {
+    "objectID": "research.html#restoration-of-logged-tropical-forests",
+    "href": "research.html#restoration-of-logged-tropical-forests",
+    "title": "research",
+    "section": "restoration of logged tropical forests",
+    "text": "restoration of logged tropical forests\n Selectively logging tropical forests by harvesting the most valuable tree species depletes the forest’s biodiversity. This loss of diversity is concerning because recent research has shown that in many ecosystems diversity plays an important role in supporting a range of ecosystem functions, including primary productivity and resilience to disturbance.\nIn my postdoctoral research with Prof. Andy Hector, we will use long-term field data from the Sabah Biodiversity Experiment and Danum Valley ForestGeo plot with repeat airborne LiDAR surveys to perform the first experimental test of how tree diversity influences productivity in SE Asian rainforests and how it could be harnessed to improve restoration and carbon sequestration."
+  },
+  {
+    "objectID": "research.html#context-dependence-and-precision-approaches-in-ecology",
+    "href": "research.html#context-dependence-and-precision-approaches-in-ecology",
+    "title": "research",
+    "section": "context-dependence and precision approaches in ecology",
+    "text": "context-dependence and precision approaches in ecology\n Despite ecosystems being incredibly complex and changeable, conservation and management decisions for ecosystems are often based on the results of meta-analyses which average effects across heterogeneous populations. To make accurate predictions about the effects of actions on individual systems we need to take a more individualised approach.\nIn my postdoctoral research with Dr Becks Spake, we are leveraging novel machine learning methods for individual-effect prediction, which were pioneered in the fields of medicine and marketing, and applying them to an ecological question. Using simulations of soil carbon responses to alternative management actions across Sweden, we are taking a virtual ecologist approach to identify how sampling and modelling decisions could influence the accuracy of individual-effect predictions."
+  },
+  {
     "objectID": "research.html#seed-natural-enemies-and-forest-plant-diversity",
     "href": "research.html#seed-natural-enemies-and-forest-plant-diversity",
     "title": "research",
     "section": "seed natural enemies and forest plant diversity",
-    "text": "seed natural enemies and forest plant diversity\n High local species richness in tropical forests poses a challenge to general ecological theory, where competition for resources limits local alpha diversity through competitive exclusion. The Janzen-Connell hypothesis proposes that coexistence is achieved through the role of specialist plant enemies, which reduce recruitment close to reproductive adults of the same species and in areas of high conspecific density.\nThe role of natural enemies in structuring and maintaining plant diversity in tropical forests is being increasingly recognised. To date, research has focused almost exclusively on enemies attacking seeds after dispersal from the parent plant. However, we don’t know much about the fate of seeds that are still developing and attached to the parent plant. Pre-dispersal seed predation could cause a reduction in the number of seeds that are successfully dispersed, with unknown consequences for plant diversity maintenance.\nMy doctoral research with Dr Sofia Gripenberg aims to investigate the role of pre-dispersal seed enemies in plant diversity maintenance."
-  },
-  {
-    "objectID": "research.html#context-dependence-and-transferability-in-ecology",
-    "href": "research.html#context-dependence-and-transferability-in-ecology",
-    "title": "research",
-    "section": "context-dependence and transferability in ecology",
-    "text": "context-dependence and transferability in ecology\n Despite ecosystems being incredibly complex and changeable, conservation and management decisions for ecosystems are often based on the results of meta-analyses which average effects across heterogeneous populations. To make accurate predictions about the effects of actions on individual systems we need to take a more individualised approach.\nWorking with Dr Becks Spake, I am identifying how sampling and modelling decisions could influence the accuracy of individual-effect predictions."
-  },
-  {
-    "objectID": "research.html#variability-in-herbivory",
-    "href": "research.html#variability-in-herbivory",
-    "title": "research",
-    "section": "variability in herbivory",
-    "text": "variability in herbivory\n Interactions between plants and their insect herbivores are one of the most studied types of ecological interactions. Multiple studies have identified huge variability in herbivory across different levels of biological organisation. A small fraction of plants can experience disproportionately high levels of herbivore damage, whilst the majority experience relatively low levels. Despite the potential ecological and evolutionary consequences of such variability, we still cannot explain why these patterns emerge so frequently in nature.\nI am a member of the Herbivory Variability Network, a global collaboration of researchers which aims to describe and understand how and why patterns in plant–herbivore interactions vary across the tree of life and around the world."
+    "text": "seed natural enemies and forest plant diversity\n High local species richness in tropical forests poses a challenge to general ecological theory, where competition for resources limits local alpha diversity through competitive exclusion. The Janzen-Connell hypothesis proposes that coexistence is achieved through the role of specialist plant enemies, which reduce recruitment close to reproductive adults of the same species and in areas of high conspecific density.\nTo date, research has focused almost exclusively on enemies attacking seeds after dispersal. However, we don’t know much about the fate of seeds that are still developing and attached to the parent plant. Pre-dispersal seed predation could cause a reduction in the number of seeds that are successfully dispersed, with unknown consequences for plant diversity maintenance.\nMy doctoral research with Dr Sofia Gripenberg aims to investigate the role of pre-dispersal seed enemies in plant diversity maintenance using a combined approach of on-the-ground field studies with analysis of long-term forest monitoring data from Barro Colorado Island, Panama."
   },
   {
     "objectID": "post/2021-03-26-microbial-mats/index.html",
@@ -67,7 +67,7 @@
     "href": "index.html",
     "title": "Dr Eleanor E Jackson",
     "section": "",
-    "text": "I’m a research scientist with interests in community ecology, forest ecology and plant-insect interactions. I hold a PhD in quantitative modelling in Ecology and Evolution from the University of Reading. Mostly, I use quantitative methods to study the natural world. I work with the programming language  and I’m enthusiastic about reproducible research.\nCurrently, I am a Postdoctoral Research Associate at the University of Reading.\nSee what I’m working on"
+    "text": "I’m a research scientist with interests in plant community ecology and forest ecosystems. I hold a PhD in quantitative modelling in Ecology and Evolution from the University of Reading. Mostly, I use computational methods and large data to study the natural world.\nCurrently, I am a Postdoctoral Research Associate at the University of Oxford.\nSee what I’m working on"
   },
   {
     "objectID": "publications.html",

@@ -25,12 +25,12 @@ about:
       href: https://twitter.com/ee_jackson
     - icon: envelope 
       text: Email
-      href: mailto:eleanor.e.jackson@reading.ac.uk
+      href: mailto:eleanor.jackson@biology.ox.ac.uk
 ---
 
-I'm a research scientist with interests in community ecology, forest ecology and plant-insect interactions. I hold a PhD in quantitative modelling in Ecology and Evolution from the University of Reading. Mostly, I use quantitative methods to study the natural world. I work with the programming language [{{< fa brands r-project >}}](https://www.r-project.org) and I'm enthusiastic about reproducible research. 
+I'm a research scientist with interests in plant community ecology and forest ecosystems. I hold a PhD in quantitative modelling in Ecology and Evolution from the University of Reading. Mostly, I use computational methods and large data to study the natural world.
 
-Currently, I am a Postdoctoral Research Associate at the University of Reading.
+Currently, I am a Postdoctoral Research Associate at the University of Oxford.
 
 [See what I'm working on {{< fa arrow-right >}}](/research.qmd)
 
