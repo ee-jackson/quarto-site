@@ -20,9 +20,6 @@ about:
     - icon: mastodon 
       text: Mastodon
       href: https://ecoevo.social/@eejackson
-    - icon: twitter 
-      text: Twitter
-      href: https://twitter.com/ee_jackson
     - icon: envelope 
       text: Email
       href: mailto:eleanor.jackson@biology.ox.ac.uk
