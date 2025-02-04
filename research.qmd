@@ -10,7 +10,7 @@ A bit about my current research projects.
 <img src="images/sabah.jpg" width = 250 align = left hspace="20" vspace="10" style="margin-left: 0; overflow: hidden; white-space: nowrap;" class = "researchimage-container">
 Selectively logging tropical forests by harvesting the most valuable tree species depletes the forest's biodiversity. This loss of diversity is concerning because recent research has shown that [in many ecosystems diversity plays an important role in supporting a range of ecosystem functions,](https://doi.org/10.1038/nature22899) including primary productivity and resilience to disturbance.  
 
-In my postdoctoral research with [Prof. Andy Hector,](https://www.biology.ox.ac.uk/people/andrew-hector) we will use long-term field data from the [Sabah Biodiversity Experiment](http://www.sabahbiodiversityexperiment.org) and [Danum Valley ForestGeo plot](https://forestgeo.si.edu/sites/asia/danum-valley) with repeat airborne LiDAR surveys to understand how tree diversity influences productivity in SE Asian rainforests and how it could be harnessed to improve restoration and carbon sequestration.   
+In my postdoctoral research with [Prof. Andy Hector,](https://www.biology.ox.ac.uk/people/andrew-hector) we will use long-term field data from the [Sabah Biodiversity Experiment](https://projects.searrp.org/static/sabah-biodiversity-experiment/) and [Danum Valley ForestGeo plot](https://forestgeo.si.edu/sites/asia/danum-valley) with repeat airborne LiDAR surveys to understand how tree diversity influences productivity in SE Asian rainforests and how it could be harnessed to improve restoration and carbon sequestration.   
 
 <br clear="all">
 
