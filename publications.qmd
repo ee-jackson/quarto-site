@@ -4,7 +4,7 @@ title: "publications"
 
 ## peer-reviewed research papers
 
-Rebecca Spake, **Eleanor E. Jackson**, James M. Bullock, Emma Gardener, Elizabeth Tipton, Matthew Grainger, C. Patrick Doncaster (2025). Precision ecology for targeted conservation action. *Nature Ecology & Evolution.*<br> [{{< fa regular link >}} DOI](https://doi.org/10.1038/s41559-025-02733-4) <br>
+Rebecca Spake, **Eleanor E. Jackson**, James M. Bullock, Emma Gardener, Elizabeth Tipton, Matthew Grainger, C. Patrick Doncaster (2025). Precision ecology for targeted conservation action. *Nature Ecology & Evolution.*<br> [{{< fa solid file-pdf >}} PDF](https://rdcu.be/eoaR4) · [{{< fa regular link >}} DOI](https://doi.org/10.1038/s41559-025-02733-4) <br>
 
 The Herbivory Variability Network[^1] (2023). Plant size, latitude, and phylogeny explain within-population variability in herbivory. *Science.*<br> [{{< fa solid file-pdf >}} PDF](http://herbvar.org/products/herbvar-et-al-2023-science.pdf) · [{{< fa regular link >}} DOI](https://doi.org/10.1126/science.adh8830) · [{{< fa regular code >}} code](https://doi.org/10.5281/zenodo.8133118) · [{{< fa regular database >}} data](https://doi.org/10.5061/dryad.44j0zpckm) <br>
 
