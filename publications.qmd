@@ -2,6 +2,10 @@
 title: "publications"
 ---
 
+## preprints
+
+**Eleanor E. Jackson**, Tord Snäll, Emma Gardner, James M. Bullock, Rebecca Spake (2025). Towards causal predictions of site-level treatment effects for applied ecology. *EcoEvoRxiv.*<br> [{{< fa solid file-pdf >}} PDF](https://ecoevorxiv.org/repository/object/9335/download/17411/) · [{{< fa regular link >}} DOI](https://doi.org/10.32942/X2KK95) · [{{< fa regular code >}} code](https://doi.org/10.5281/zenodo.13269918) · [{{< fa regular database >}} data](https://doi.org/10.5281/zenodo.13269918) <br>
+
 ## peer-reviewed research papers
 
 **Eleanor E. Jackson**, Matthew P. Greenwell, James M. Bullock, Tom H. Oliver, Susie Topple, Christopher W. Foster, Sofia Gripenberg (2025). Density-dependent effects on the reproductive ecology of trees in a temperate woodland. *Ecology and Evolution.*<br> [{{< fa solid file-pdf >}} PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.71491?download=false) · [{{< fa regular link >}} DOI](https://doi.org/10.1002/ece3.71491) · [{{< fa regular code >}} code](https://doi.org/10.5281/zenodo.15124592) · [{{< fa regular database >}} data](https://doi.org/10.5281/zenodo.10599206) <br>
