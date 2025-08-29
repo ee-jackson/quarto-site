@@ -17,9 +17,12 @@ about:
     - icon: orcid
       text: "{{< fa brands orcid >}} Orcid"
       href: https://orcid.org/0000-0002-9884-2972
-    - icon: mastodon 
-      text: Mastodon
-      href: https://ecoevo.social/@eejackson
+    - icon: scholar
+      text: "{{< fa brands google-scholar >}} Scholar"
+      href: https://scholar.google.com/citations?hl=en&user=i0GQDOkAAAAJ 
+    - icon: bluesky 
+      text: "{{< fa brands bluesky >}} Bluesky"
+      href: https://bsky.app/profile/eejackson.bsky.social
     - icon: envelope 
       text: Email
       href: mailto:eleanor.jackson@biology.ox.ac.uk

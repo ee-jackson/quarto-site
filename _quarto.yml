@@ -13,12 +13,6 @@ website:
   open-graph:
     locale: en_GB
     image: images/icon.png
-  twitter-card:
-    creator: "@ee_jackson"
-    card-style: summary
-    image: "https://eleanor-jackson.com/images/icon.png"
-    image-width: 512
-    image-height: 512
   navbar:
     title: false
     logo: images/logo.png
@@ -27,11 +21,9 @@ website:
         text: research
       - href: publications.qmd
         text: publications
-      - href: post.qmd
-        text: blog
   page-footer:
     left: |
-      {{< fa regular copyright >}} Eleanor Jackson, 2024
+      {{< fa regular copyright >}} Eleanor Jackson, 2025
       
     right: |
       <a href="https://github.com/ee-jackson/quarto-site" title="source code">{{< fa regular code >}}</a>
