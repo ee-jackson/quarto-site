@@ -5,11 +5,11 @@ project:
 website:
   title: "Eleanor Jackson"
   favicon: images/icon.png
-  site-url: https://eleanor-jackson.com
-  description: Researcher, ecologist and scientist
+  site-url: https://eleanorjackson.com
+  description: Research scientist and ecologist 
   repo-url: https://github.com/ee-jackson/quarto-site
   search: false
-  image: "https://eleanor-jackson.com/images/icon.png"
+  image: "https://eleanorjackson.com/images/icon.png"
   open-graph:
     locale: en_GB
     image: images/icon.png
@@ -17,10 +17,8 @@ website:
     title: false
     logo: images/logo.png
     left:
-      - href: research.qmd
-        text: research
       - href: publications.qmd
-        text: publications
+        text: Publications
   page-footer:
     left: |
       {{< fa regular copyright >}} Eleanor Jackson, 2025

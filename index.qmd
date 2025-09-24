@@ -1,5 +1,6 @@
 ---
-title: "Dr Eleanor E Jackson"
+title: "Dr. Eleanor E. Jackson"
+subtitle: "Postdoctoral Researcher, Department of Biology, University of Oxford"
 pagetitle: "eleanor jackson"
 aliases:
   - about.html
@@ -22,18 +23,20 @@ about:
       href: https://scholar.google.com/citations?hl=en&user=i0GQDOkAAAAJ 
     - icon: bluesky 
       text: "{{< fa brands bluesky >}} Bluesky"
-      href: https://bsky.app/profile/eejackson.bsky.social
+      href: https://bsky.app/profile/eleanorjackson.com
     - icon: envelope 
       text: Email
       href: mailto:eleanor.jackson@biology.ox.ac.uk
 ---
 
-I'm a research scientist with interests in plant community ecology and forest ecosystems. I hold a PhD in quantitative modelling in Ecology and Evolution from the University of Reading. Mostly, I use computational methods and large data to study the natural world.
+Hello! I'm a research scientist currently working on the restoration of logged tropical forests [at the University of Oxford](https://www.biology.ox.ac.uk/people/eleanor-jackson).
 
-Currently, I am a [Postdoctoral Researcher at the University of Oxford.](https://www.biology.ox.ac.uk/people/eleanor-jackson)
+I hold a PhD in _Quantitative Modelling in Ecology and Evolution_ from the University of Reading, which focused on pre-dispersal Janzen-Connell effects and was supervised by [Sofia Gripenberg](https://www.reading.ac.uk/ecology/staff/sofia-gripenberg). Prior to my PhD, I received a BSc in _Zoology_ from the University of Exeter and a MRes in _Biodiversity, Evolution and Conservation_ from University College London.
 
-[See what I'm working on {{< fa arrow-right >}}](/research.qmd)
+Broadly, my interests lie in quantitative and community ecology -- utilising maths and statistics to understand how species coexist. I'm particularly excited by:
 
-<!-- mastodon verification -->
-
-<a rel="me" href="https://ecoevo.social/@eejackson"></a>
+- Tropical forests
+- Interactions between plants & their natural enemies
+- Species coexistence and conspecific density-dependence
+- Complex ecological data and Bayesian modelling
+- Open & reproducible science
