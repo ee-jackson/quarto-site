@@ -1,7 +1,7 @@
 ---
 title: "Dr. Eleanor E. Jackson"
 subtitle: "Postdoctoral Researcher, Department of Biology, University of Oxford"
-pagetitle: "eleanor jackson"
+pagetitle: "Eleanor Jackson"
 aliases:
   - about.html
 image: images/meadow.jpg
