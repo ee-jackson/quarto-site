@@ -8,7 +8,7 @@ title: "Publications"
 
 ## Peer-reviewed publications
 
-L. Crowley, P. Mulhair, O.T. Lewis, P.W.H. Holland, T. Hesselberg, L.R. Cole, C.N. Hackforth, P. Waring, S. Falk, **E.E. Jackson,** S. Gripenberg, E. Eatough, T. Lander, C.A.L. Dahlsjö, B.C. Sheldon, D. Linton, C. Lamberth, A. Raulo (2025). Changes in the Fauna. In *Wytham Woods: How a Landscape Works.* K. J. Kirby. p.141. Oxford University Press.
+L. Crowley, P. Mulhair, O.T. Lewis, P.W.H. Holland, T. Hesselberg, L.R. Cole, C.N. Hackforth, P. Waring, S. Falk, **E.E. Jackson,** S. Gripenberg, E. Eatough, T. Lander, C.A.L. Dahlsjö, B.C. Sheldon, D. Linton, C. Lamberth, A. Raulo (2025). Changes in the Fauna. In *Wytham Woods: How a Landscape Works.* K. J. Kirby. pp. 141—175. Oxford University Press.
 
 **Eleanor E. Jackson**, Matthew P. Greenwell, James M. Bullock, Tom H. Oliver, Susie Topple, Christopher W. Foster, Sofia Gripenberg (2025). Density-dependent effects on the reproductive ecology of trees in a temperate woodland. *Ecology and Evolution.*<br> [{{< fa solid file-pdf >}} PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.71491?download=false) · [{{< fa regular link >}} DOI](https://doi.org/10.1002/ece3.71491) · [{{< fa regular code >}} code](https://doi.org/10.5281/zenodo.15124592) · [{{< fa regular database >}} data](https://doi.org/10.5281/zenodo.10599206) <br>
 
