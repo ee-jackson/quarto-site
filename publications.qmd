@@ -4,6 +4,10 @@ title: "Publications"
 
 ## Preprints
 
+The BES Data and Code Hackathon Group [^1] (2026). Data- and code-archiving in the British Ecological Society journals: present status and recommendations for future improvements. *EcoEvoRxiv.*<br> [{{< fa solid file-pdf >}} PDF](https://ecoevorxiv.org/repository/object/12039/download/21604/) · [{{< fa regular link >}} DOI](https://doi.org/10.32942/X26W9V) · [{{< fa regular code >}} code](https://github.com/nhcooper123/reproduce-reuse-recycle) · [{{< fa regular database >}} data](https://github.com/nhcooper123/reproduce-reuse-recycle) <br>
+
+Toby D. Jackson, Lucy V.J. Beese, Andy Hector, **Eleanor E. Jackson**, Michael O’Brien, Gianluca Cerullo, David A. Coomes, David F.R.P. Burslem, Fabian J. Fischer, Christopher D. Philipson, Elia Godoong, Charissa Wong, Martin Svátek, Michele Dalponte, Wan Shafrina Wan Mohd Jaafar, Tommaso Jucker (2026). Liana cutting accelerates tropical forest recovery at a fraction of the cost of tree planting. *BioRxiv.* <br> [{{< fa solid file-pdf >}} PDF](https://www.biorxiv.org/content/10.64898/2026.03.02.709120v1.full.pdf) · [{{< fa regular link >}} DOI](https://doi.org/10.64898/2026.03.02.709120) · [{{< fa regular code >}} code](https://github.com/TobyDJackson/Repeat_LiDAR_liana_cutting) · [{{< fa regular database >}} data](https://doi.org/10.5281/zenodo.14917551) <br>
+
 **Eleanor E. Jackson**, Tord Snäll, Emma Gardner, James M. Bullock, Rebecca Spake (2025). Towards causal predictions of site-specific management effects in applied ecology. *EcoEvoRxiv.*<br> [{{< fa solid file-pdf >}} PDF](https://ecoevorxiv.org/repository/object/9335/download/20248/) · [{{< fa regular link >}} DOI](https://doi.org/10.32942/X2KK95) · [{{< fa regular code >}} code](https://doi.org/10.5281/zenodo.13269917) · [{{< fa regular database >}} data](https://doi.org/10.5281/zenodo.13269917) <br>
 
 ## Peer-reviewed publications
@@ -14,7 +18,7 @@ L. Crowley, P. Mulhair, O.T. Lewis, P.W.H. Holland, T. Hesselberg, L.R. Cole, C.
 
 Rebecca Spake, **Eleanor E. Jackson**, James M. Bullock, Emma Gardener, Elizabeth Tipton, Matthew Grainger, C. Patrick Doncaster (2025). Precision ecology for targeted conservation action. *Nature Ecology & Evolution.*<br> [{{< fa solid file-pdf >}} PDF](https://rdcu.be/eoaR4) · [{{< fa regular link >}} DOI](https://doi.org/10.1038/s41559-025-02733-4) <br>
 
-The Herbivory Variability Network[^1] (2023). Plant size, latitude, and phylogeny explain within-population variability in herbivory. *Science.*<br> [{{< fa solid file-pdf >}} PDF](http://herbvar.org/products/herbvar-et-al-2023-science.pdf) · [{{< fa regular link >}} DOI](https://doi.org/10.1126/science.adh8830) · [{{< fa regular code >}} code](https://doi.org/10.5281/zenodo.8133118) · [{{< fa regular database >}} data](https://doi.org/10.5061/dryad.44j0zpckm) <br>
+The Herbivory Variability Network[^2] (2023). Plant size, latitude, and phylogeny explain within-population variability in herbivory. *Science.*<br> [{{< fa solid file-pdf >}} PDF](http://herbvar.org/products/herbvar-et-al-2023-science.pdf) · [{{< fa regular link >}} DOI](https://doi.org/10.1126/science.adh8830) · [{{< fa regular code >}} code](https://doi.org/10.5281/zenodo.8133118) · [{{< fa regular database >}} data](https://doi.org/10.5061/dryad.44j0zpckm) <br>
 
 Josianne Lachapelle, Elvire Bestion, **Eleanor E. Jackson**, C.-Elisa Schaum (2022). Presence of a resident species aids invader evolution. *Limnology and Oceanography.*<br> [{{< fa solid file-pdf >}} PDF](https://aslopubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/lno.12200?download=false) · [{{< fa regular link >}} DOI](https://doi.org/10.1002/lno.12200) · [{{< fa regular code >}} code](https://doi.org/10.5281/zenodo.6884040) · [{{< fa regular database >}} data](https://doi.org/10.5281/zenodo.6884040) <br>
 
@@ -22,7 +26,10 @@ Josianne Lachapelle, Elvire Bestion, **Eleanor E. Jackson**, C.-Elisa Schaum (20
 
 **Eleanor E. Jackson**, Ian Hawes, Anne D. Jungblut (2021). 16S rRNA gene and 18S rRNA gene diversity in microbial mat communities in meltwater ponds on the McMurdo Ice Shelf, Antarctica. *Polar Biology.* <br> [{{< fa solid file-pdf >}} PDF](https://link.springer.com/content/pdf/10.1007/s00300-021-02843-2.pdf) · [{{< fa regular link >}} DOI](https://doi.org/10.1007/s00300-021-02843-2) <br>
 
-[^1]: M.L. Robinson, P.G. Hahn, B.D. Inouye, N. Underwood, S.R. Whitehead, K.C. Abbott,
+[^1]: N. Cooper, B.J. Allen, N. Almaani, R. Altwegg, J. Balogh, H. Balti, R.A. Barber, M.E. Barbosa de Sousa, J.G.N.  Barreat, C.F. Barrett, R. Bates, A.M.J.M. Beale, L. Bliard, N. Blömer, D. Borovyk, C. Bunnenberg, E.A. Bygate, L. Cash, N. Chatterjee, T.-W. Chen, A. Chiti, S.S.-W. Chung, H. Chuquillanqui, A. Ciezarek, A. Clarkson, E. Codling, A. Corradini, A. Cowans, S. Dartnell, A.J.S. Davis, L.L.M. De Benedictis, G.G. Deme, C. Devenish, S. Dimri, C. Dittrich, K.R. Dorheim, H.B. Drage, M.-A. Dueñas, A. Efstathiou, L.C. Evans, M.E. Ferreira Santos, A.J. Foxx, R.J. Gardiner, J. Gaudard, W. Gearty, L. Graham, V.M. Graves, H.M. Green, R.V. Greensmith, S. Gérard, A.H. Halbritter, T.R. Hartke, R.M. Hechler, B.J. Hindle, P.-Y. Hsing, S. Illanas, G. Iossa, **E.E. Jackson**, L.A. Jones, F.A.M. Jones, J.A. Jones, J.F. Jupke, N.N. Kaunain, R. Kennedy, M.R. Kerr, N.J. Kester,  M.  Klaassen,  O.  Konecka,  R.  Krasnow,  R.  Kukowski,  A.  Kumar,  R.  Kuminski,  K.S. Kuzey, L. Laccetti, M. Lagisz, H. Latifi, N. Lecomte, K.D. Luchmun, A. Lévêque, A. Markitantova, B.M. Marshall, E. Menares-Barraza, D. Mertens, G. Mesbahi, J. Meyer, J. Millard, L.M. Montilla, B. Moreira, A. Morera, G. Murali, M.P. Murray, F. Märker, K. Nagahawatte, C.L. Narraway, H.I. Niven, A.G. Nytko, B. Ohse, S. Patterson, H.R.P. Phillips, R. Pienaar, P. Pollo, A. Ponce, L.M.V. Porto, E.F.R. Preston, C.S. Prieul, A. Prylutska, O. Prylutskyi, K. Radman-Daw, A.M. Raharison, R. Rao, F.R. Read, S. Record, W. Rees, R. Reeve, H. Rhodes, C. Rocabado, A. Rouviere, A. Rönnfeldt, A. Sagouis, S.P. Sakhalkar, G.S. Santos, M.A. Shakur, R. Shaw, D. Siegieda, L. Šmídova, B.I. Simmons, H.G. Sisley, A. Sánchez-Tójar, F.G. Taboada, N.G. Taylor, H. Teague, K. Thrikkadeeri, V. Thuroczy, A. Varah, K.L. Vinay, C.M. Watrobska, Z.B. Williams and S.M. Windecker 
+<br>
+
+[^2]: M.L. Robinson, P.G. Hahn, B.D. Inouye, N. Underwood, S.R. Whitehead, K.C. Abbott,
 E.M. Bruna, N.I. Cacho, L.A. Dyer, L. Abdala-Roberts, W.J. Allen, J.F. Andrade,
 D.F. Angulo, D. Anjos, D.N. Anstett, R. Bagchi, S. Bagchi, M. Barbosa, S.
 Barrett, C.A. Baskett, E. Ben-Simchon, K.J. Bloodworth, J.L. Bronstein, Y.M.
@@ -54,4 +61,5 @@ Singh, D.S. Smith, M. Sobral, G.C. Stotz, A.J.M. Tack, M. Tayal, J.F. Tooker, D.
 Torrico-Bazoberry, K. Tougeron, A.M. Trowbridge, S. Utsumi, O. Uyi, J.L.
 Vaca-Uribe, A. Valtonen, L.J.A. van Dijk, V. Vandvik, J. Villellas, L.P.
 Waller, M.G. Weber, A. Yamawo, S. Yim, P.L. Zarnetske, L.N. Zehr, Z. Zhong, and W.C. Wetzel
+<br>
 
